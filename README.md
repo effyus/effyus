@@ -1,16 +1,14 @@
-### Hi there 👋
+## ✨ Hi, I'm Fernanda and welcome to my profile ✨
+<div>
+   Student of System Information <h2>
+</div>
 
-<!--
-**effyus/effyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+  <a href="https://github.com/effyus">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=effyus&theme=onedark">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=effyus&hide=html&layout=compact&theme=onedark">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <img align="rigth" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif"> 
+</div>
