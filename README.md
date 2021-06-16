@@ -1,26 +1,41 @@
-## ✨ Hi, I'm Fernanda and welcome to my profile ✨
+<div> 
+  <img align="right" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif"> 
+</div>
+
+## ✨ Hi, I'm Fernanda Souza and welcome to my profile ✨ 
+
 <!--INFORMATIONS-->
 <section >
-<div ><ul>
-  <br> • Student of System Information 
-  <br> • Iniciant in developer front-end and web
-  <br> • President of academic directory
-</ul></div>
-   
-<!-- LANGUAGES-->
+  <div>
+    I'm student of System Information, I'm beginner developer in front-end and web, I have 22 years and I'm President from academic director of university.<br>
+    • Living in Vitória da Conquista, Bahia- Brazil
+  </div>
 </section>
-<div>
-  <img href="">
-<div>
+
+
+<!-- LANGUAGES-->  
+## Languages and tools
+
 <section>
-   
-  </section> 
- <!--GITHUB STATS-->  
-<div> 
-  <a href="https://github.com/effyus">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=effyus&theme=onedark">
-</div>
- <!--CONTACT-->  
+  <div>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Css">
+  </div>
+  
+<!--GITHUB STATS-->  
+  <div> 
+   <br> <a href="https://github.com/effyus">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=effyus&theme=onedark"></a>
+   <br> <a href="http://github.com/effyus">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effyus&hide=html&layout=compact&theme=onedark">
+  </div>
+</section>  
+  
+  
+<!--CONTACT-->
+## Contact
 <section>
    <div>
       <a href="fernandasouzadev@gmail.com">
@@ -35,10 +50,7 @@
         <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>   
   </div>
 </section>
-   
- <!--IMAGES-->
-<div> 
-  <img align="right" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif"> 
-</div>
+
+
    
   
