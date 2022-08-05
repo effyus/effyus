@@ -7,7 +7,7 @@
 <!--INFORMATIONS-->
 <section >
   <div>
-    I'm student of System Information, I'm beginner developer in front-end and web, I have 22 years and I'm President from academic director of university.<br>
+    I'm student of System Information, I'm beginner developer in front-end and web, I have 23 years and processing technique in TIVIC.<br>
     • Living in Vitória da Conquista, Bahia- Brazil
   </div>
 </section>
