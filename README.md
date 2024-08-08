@@ -7,7 +7,7 @@
 <!--INFORMATIONS-->
 <section >
   <div>
-    I'm student of System Information, beginner developer in front-end and web, I have 23 years and I am open to new oportunities.<br>
+    I'm a student of System Information, beginner developer in front-end and web, I have 25 years and I am open to new oportunities.<br>
     • Living in Vitória da Conquista, Bahia- Brazil
   </div>
 </section>
@@ -45,7 +45,7 @@
      <img align="left"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github"></a> 
   </div>
   <div>
-     <a href="https://www.instagram.com/effyus/">
+     <a href="https://www.instagram.com/ffersozza/">
         <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>   
   </div>
 </section>
