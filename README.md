@@ -1,22 +1,27 @@
-<div> 
-  <img align="right" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif"> 
-</div>
 
-## ✨ Hi, I'm Fernanda Souza and welcome to my profile ✨ 
+<!-- MasterHead -->
+![banner effyus](effyus.png)
+
+<h2 align="center">WELCOME TO MY GITHUB PROFILE ✨ </h2>
 
 <!--INFORMATIONS-->
-<section >
-  <div>
-    I'm a student of System Information, beginner developer in front-end and web, I have 25 years and I am open to new oportunities.<br>
-    • Living in Vitória da Conquista, Bahia- Brazil
+<section>
+   <img align="right" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif">
+   <div>
+     <h4 align="left">
+       Majoring in Information Systems, web front-end developer, 25 years old, class representative and I am open to new oportunities.<br>
+      • Living in Vitória da Conquista, Bahia - Brazil
+     </h4> 
   </div>
 </section>
+ 
 
-
+[![](https://visitcount.itsvg.in/api?id=effyus&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- LANGUAGES-->  
-## Languages and tools
 
+## Languages and tools
 <section>
+  
   <div>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -46,7 +51,7 @@
   </div>
   <div>
      <a href="https://www.instagram.com/ffersozza/">
-        <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>   
+      <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>   
   </div>
 </section>
 
