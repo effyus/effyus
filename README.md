@@ -2,25 +2,29 @@
 <!-- MasterHead -->
 ![banner effyus](effyus.png)
 
-<h2 align="center">WELCOME TO MY GITHUB PROFILE ✨ </h2>
-
+<h1 align="center">WELCOME TO MY GITHUB PROFILE ✨ </h1>
 <!--INFORMATIONS-->
 <section>
-   <img align="right" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif">
-   <div>
-     <h4 align="left">
-       Majoring in Information Systems, web front-end developer, 25 years old, class representative and I am open to new oportunities.<br>
+   
+   <div align="center">
+     <h4 >
+      <samp> Majoring in Information Systems, web front-end developer, 25 years old, class representative and I am open to new oportunities.<br>
       • Living in Vitória da Conquista, Bahia - Brazil
-     </h4> 
+      </samp>
+     </h4> <img align="center" height="150" width="150"src="https://64.media.tumblr.com/2edbfa297c85856e71062efbc31dd054/tumblr_nvnwzhZa9W1ugoy51o1_500.gif">
   </div><br/>
 </section>
- 
+<div align="center">
+   <a href="https://visitcount.itsvg.in">
+     <img  src="https://visitcount.itsvg.in/api?id=effyus&label=Profile%20Views&color=10&icon=2&pretty=true" /></br></br></br>
+   </a>
+</div> 
 
-[![](https://visitcount.itsvg.in/api?id=effyus&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+
+<h2 align="center">LANGUAGES AND TOOLS ✨ </h2>
 <!-- LANGUAGES-->  
-
-## Languages and tools
-<section>
+<section align="center">
   
   <div>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html">
@@ -31,28 +35,27 @@
 <!--GITHUB STATS-->  
   <div> 
    <br> <a href="https://github.com/effyus">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=effyus&theme=onedark"></a>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=effyus&theme=onedark"></a></br>
    <br> <a href="http://github.com/effyus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effyus&hide=html&layout=compact&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=effyus&hide=html&layout=compact&theme=onedark"></br></br></br>
   </div>
 </section>  
   
   
+
+<h2 align="center">CONTACTS ✨ </h2>
 <!--CONTACT-->
-## Contact
-<section>
+<section align="center">
    <div>
       <a href="fernandasouzadev@gmail.com">
-      <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
-  </div> 
-    <div> 
-     <a href="https://www.linkedin.com/in/fernanda-souza-silva-santos-888858214/">
-     <img align="left"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github"></a> 
+      <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
+      <a href="https://www.linkedin.com/in/fernanda-souza-silva-santos-888858214/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github"></a> 
+      <a href="https://www.instagram.com/ffersozza/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>   
   </div>
-  <div>
-     <a href="https://www.instagram.com/ffersozza/">
-      <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>   
-  </div>
+   </div>
+   
 </section>
 
 
