@@ -12,7 +12,7 @@
        Majoring in Information Systems, web front-end developer, 25 years old, class representative and I am open to new oportunities.<br>
       • Living in Vitória da Conquista, Bahia - Brazil
      </h4> 
-  </div>
+  </div><br/>
 </section>
  
 
